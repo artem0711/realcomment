@@ -1,0 +1,854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comme",
+				"comments"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"date",
+				"date_time"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"commet",
+				"Comments"
+			],
+			[
+				"Commen",
+				"CommentWidget"
+			],
+			[
+				"Ht",
+				"Html"
+			],
+			[
+				"col",
+				"col-lg-8 \tBootstrap 3 Class"
+			],
+			[
+				"offs",
+				"col-md-offset-3 \tBootstrap 3 Class"
+			],
+			[
+				"Ac",
+				"ActiveForm"
+			],
+			[
+				"offset",
+				"col-md-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"md",
+				"col-md-8 \tBootstrap 3 Class"
+			],
+			[
+				"Likn",
+				"LinkPager"
+			],
+			[
+				"coun",
+				"$country〔variable〕"
+			],
+			[
+				"fora",
+				"foreach〔keyword〕"
+			],
+			[
+				"pa",
+				"$pagination〔variable〕"
+			],
+			[
+				"pagina",
+				"pagination"
+			],
+			[
+				"con",
+				"controller\tCI - Base Controller"
+			],
+			[
+				"lab",
+				"label\t<label>"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"form-",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"phon",
+				"phones"
+			],
+			[
+				"repla",
+				"replaceWith〔function〕"
+			],
+			[
+				"add",
+				"addPhone"
+			],
+			[
+				"repl",
+				"replaceWith\t.replaceWith()"
+			],
+			[
+				"phone",
+				"phoneEdit"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"pho",
+				"phoneEdit"
+			],
+			[
+				"get",
+				"getElementsByName〔function〕"
+			],
+			[
+				"form",
+				"formGroup"
+			],
+			[
+				"gete",
+				"getElementsByName〔function〕"
+			],
+			[
+				"input-group",
+				"input-group-btn \tBootstrap 3 Class"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"ph",
+				"$phone〔variable〕"
+			],
+			[
+				"c",
+				"click\t.click()"
+			],
+			[
+				"btn-",
+				"btn-default \tBootstrap 3 Class"
+			],
+			[
+				"panel-",
+				"panel-heading \tBootstrap 3 Class"
+			],
+			[
+				"load",
+				"load_view\tCI - Load View"
+			],
+			[
+				"temp",
+				"PDF_begin_template"
+			],
+			[
+				"uri",
+				"uri_segment\tCI - URI Segment"
+			],
+			[
+				"ERR",
+				"ERR_NONE〔constant〕"
+			],
+			[
+				"N",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"dropdown",
+				"dropdown-menu \tBootstrap 3 Class"
+			],
+			[
+				"form_va",
+				"form_validation"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"rig",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"btn",
+				"btn-danger \tBootstrap 3 Class"
+			],
+			[
+				"bt",
+				"btn \tBootstrap 3 Class"
+			],
+			[
+				"edit",
+				"editinfo"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"encr",
+				"encryption"
+			],
+			[
+				"pass",
+				"$password〔variable〕"
+			],
+			[
+				"random",
+				"random_string〔function〕"
+			],
+			[
+				"en",
+				"encryption"
+			],
+			[
+				"__c",
+				"__construct〔function〕"
+			],
+			[
+				"for",
+				"form_open\tCI - Form Open"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"col-",
+				"col-lg-6 \tBootstrap 3 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"va",
+				"$value〔variable〕"
+			],
+			[
+				"set",
+				"set_flashdata\tCI - Set flashdata"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"tele",
+				"$telephones〔variable〕"
+			],
+			[
+				"de",
+				"denied"
+			],
+			[
+				"usern",
+				"$username〔variable〕"
+			],
+			[
+				"gl",
+				"glyphicon \tBootstrap 3 Class"
+			],
+			[
+				"pane",
+				"panel-title \tBootstrap 3 Class"
+			],
+			[
+				"table",
+				"table-bordered \tBootstrap 3 Class"
+			],
+			[
+				"glyphicon-i",
+				"glyphicon-info-sign \tBootstrap 3 Class"
+			],
+			[
+				"pan",
+				"panel-body \tBootstrap 3 Class"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"d",
+				"div\t<div>"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"b",
+				"button\t<button>"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"che",
+				"check_user"
+			],
+			[
+				"user_",
+				"$user_id〔variable〕"
+			],
+			[
+				"sess",
+				"session_userdata\tCI - Session - Retrieving Session Data"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"getd",
+				"get_data"
+			],
+			[
+				"logge",
+				"logged_in_check"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"re",
+				"redirect\tCI - URL Helper - redirect"
+			],
+			[
+				"ERR_",
+				"ERR_INVALID_PASSWORD〔constant〕"
+			],
+			[
+				"f",
+				"flashdata\tCI - Flashdata"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"pri",
+				"private〔keyword〕"
+			],
+			[
+				"loadmode",
+				"load_module\tHMVC CI - Load Module Controller"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"die"
+			],
+			[
+				"form_",
+				"form_validation_run\tCI - Form Validation Run"
+			],
+			[
+				"p",
+				"p\t<p>"
+			],
+			[
+				"show",
+				"show_error〔function〕"
+			],
+			[
+				"set_",
+				"set_rules"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"vali",
+				"validation_errors〔function〕"
+			],
+			[
+				"base",
+				"base_url〔function〕"
+			],
+			[
+				"url",
+				"url_title〔function〕"
+			],
+			[
+				"form_validation",
+				"form_validation_run\tCI - Form Validation Run"
+			],
+			[
+				"news_",
+				"$news_item〔variable〕"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"news",
+				"news_model"
+			],
+			[
+				"CI_con",
+				"CI_Controller〔class〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"query",
+				"mysql_query"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"site",
+				"site_url〔function〕"
+			],
+			[
+				"curre",
+				"current_url〔function〕"
+			],
+			[
+				"bas",
+				"base_url〔function〕"
+			],
+			[
+				"file_e",
+				"file_exists〔function〕"
+			],
+			[
+				"wp",
+				"wp_enqueue_style"
+			],
+			[
+				"blo",
+				"bloginfo"
+			],
+			[
+				"cha",
+				"charset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 375,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+			"packagecontrol",
+			"install package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OSPanel/domains/basicyii",
+		"/C/OSPanel/domains/basicyii/controllers",
+		"/C/OSPanel/domains/basicyii/models",
+		"/C/OSPanel/domains/basicyii/views",
+		"/C/OSPanel/domains/basicyii/views/layouts",
+		"/C/OSPanel/domains/basicyii/views/realcomment",
+		"/C/OSPanel/domains/basicyii/views/site",
+		"/C/OSPanel/domains/basicyii/web",
+		"/C/OSPanel/domains/basicyii/web/css",
+		"/C/OSPanel/domains/basicyii/widgets"
+	],
+	"file_history":
+	[
+		"/C/OSPanel/domains/basicyii/views/realcomment/index.php",
+		"/C/OSPanel/domains/basicyii/controllers/RealcommentController.php",
+		"/C/OSPanel/domains/basicyii/views/realcomment/_comment.php",
+		"/C/OSPanel/domains/basicyii/models/Realcomment.php",
+		"/C/OSPanel/domains/basicyii/config/web.php",
+		"/C/OSPanel/domains/basicyii/vendor/amass/yii2-bootstrap-panel-widget/Panel.php",
+		"/C/OSPanel/domains/basicyii/vendor/yiisoft/yii2/helpers/BaseHtml.php",
+		"/C/OSPanel/domains/basicyii/views/realcomment/_form.php",
+		"/C/OSPanel/domains/basicyii/views/site/index.php",
+		"/C/OSPanel/domains/basicyii/controllers/SiteController.php",
+		"/C/OSPanel/domains/basicyii/views/layouts/main.php",
+		"/C/OSPanel/domains/basicyii/web/.htaccess",
+		"/C/OSPanel/domains/basicyii/components/views/comment.php",
+		"/C/OSPanel/domains/basicyii/components/CommentWidget.php",
+		"/C/OSPanel/domains/basicyii/views/country/index.php",
+		"/C/OSPanel/domains/basicyii/views/country/view.php",
+		"/C/OSPanel/domains/basicyii/vendor/yiisoft/yii2/widgets/DetailView.php",
+		"/C/OSPanel/domains/basicyii/web/css/site.css",
+		"/C/OSPanel/domains/basicyii/web/assets/cb5f3fc6/css/bootstrap.css",
+		"/C/OSPanel/domains/basicyii/views/country/_form.php",
+		"/C/OSPanel/domains/basicyii/.htaccess",
+		"/C/OSPanel/domains/basicyii/views/site/contact.php",
+		"/C/OSPanel/domains/basicyii/vendor/yiisoft/yii2/BaseYii.php",
+		"/C/OSPanel/domains/basicyii/models/ContactForm.php",
+		"/C/OSPanel/domains/basicyii/vendor/yiisoft/yii2/web/View.php",
+		"/C/OSPanel/domains/basicyii/vendor/yiisoft/yii2/base/View.php",
+		"/C/OSPanel/domains/basicyii/commands/HelloController.php",
+		"/C/OSPanel/domains/basicyii/vendor/yiisoft/yii2-bootstrap/src/Alert.php",
+		"/C/OSPanel/domains/basicyii/views/realcomment/create.php",
+		"/C/OSPanel/domains/basicyii/views/realcomment/view.php",
+		"/C/OSPanel/domains/basicyii/views/realcomment/update.php",
+		"/C/OSPanel/domains/basicyii/controllers/CountryController.php",
+		"/C/OSPanel/domains/basicyii/views/country/create.php",
+		"/C/OSPanel/domains/basicyii/models/EntryForm.php",
+		"/C/OSPanel/domains/basicyii/views/site/entry.php",
+		"/C/OSPanel/domains/basicyii/views/site/entry-confirm.php",
+		"/C/OSPanel/domains/basicyii/web/index.php",
+		"/C/OSPanel/domains/basicyii/models/Country.php",
+		"/C/OSPanel/domains/basicyii/views/site/country.php",
+		"/C/OSPanel/domains/basicyii/views/site/say.php",
+		"/C/OSPanel/domains/phone-book/application/controllers/Contacts.php",
+		"/C/OSPanel/domains/phone-book/application/models/Auth_model.php",
+		"/C/OSPanel/domains/phone-book/application/views/templates/footer.php",
+		"/C/OSPanel/domains/phone-book/application/views/phones.php",
+		"/C/OSPanel/domains/phone-book/application/controllers/Auth.php",
+		"/C/OSPanel/domains/phone-book/application/views/contacts.php",
+		"/C/OSPanel/domains/phone-book/application/views/templates/signin_form.php",
+		"/C/OSPanel/domains/phone-book/application/views/changepassword.php",
+		"/C/OSPanel/domains/phone-book/application/views/templates/menu.php",
+		"/C/OSPanel/domains/phone-book/application/views/editinfo.php",
+		"/C/OSPanel/domains/phone-book/application/views/templates/signup_form.php",
+		"/C/OSPanel/domains/phone-book/application/views/auth.php",
+		"/C/OSPanel/domains/phone-book/application/views/templates/header.php",
+		"/C/OSPanel/domains/phone-book/README.md",
+		"/C/OSPanel/domains/phone-book/application/config/config.php",
+		"/C/OSPanel/domains/phone-book/index.php",
+		"/C/OSPanel/domains/phone-book/.htaccess",
+		"/C/OSPanel/domains/phone-book/application/views/templates/editinfo.php",
+		"/C/OSPanel/domains/phone-book/application/config/doctypes.php",
+		"/C/OSPanel/domains/phone-book/application/views/dashboard.php",
+		"/C/OSPanel/domains/phone-book/application/views/templates/login_form.php",
+		"/C/OSPanel/domains/phone-book/application/views/templates/register_form.php",
+		"/C/OSPanel/domains/phone-book/application/core/MY_Controller.php",
+		"/C/OSPanel/domains/phone-book/assets/css/helper.css",
+		"/C/OSPanel/domains/phone-book/application/views/navbar.php",
+		"/C/OSPanel/domains/phone-book/application/controllers/Dashboard.php",
+		"/C/OSPanel/domains/phone-book/application/controllers/Welcome.php",
+		"/C/OSPanel/domains/phone-book/application/config/autoload.php",
+		"/C/OSPanel/domains/phone-book/application/config/routes.php",
+		"/C/OSPanel/domains/phone-book/application/config/constants.php",
+		"/C/OSPanel/domains/phone-book/application/config/database.php",
+		"/C/OSPanel/domains/phone-book/application/models/Users_model.php",
+		"/C/OSPanel/domains/authentication/application/controllers/Users.php",
+		"/C/OSPanel/domains/authentication/application/controllers/Contacts.php",
+		"/C/OSPanel/domains/authentication/application/config/routes.php",
+		"/C/OSPanel/domains/authentication/application/views/users/register.php",
+		"/C/OSPanel/domains/authentication/application/views/users/login.php",
+		"/C/OSPanel/domains/authentication/application/models/Users_model.php",
+		"/C/OSPanel/domains/authentication/application/core/MY_Controller.php",
+		"/C/OSPanel/domains/authentication/application/views/users/changepassword.php",
+		"/C/OSPanel/domains/authentication/application/views/templates/menu.php",
+		"/C/OSPanel/domains/authentication/application/views/contacts/edit.php",
+		"/C/OSPanel/domains/authentication/application/views/contacts/view.php",
+		"/C/OSPanel/domains/authentication/application/views/templates/header.php",
+		"/C/OSPanel/domains/authentication/assets/css/animate.css",
+		"/C/OSPanel/domains/authentication/application/views/templates/footer.php",
+		"/C/OSPanel/domains/authentication/application/views/contacts/create.php",
+		"/C/OSPanel/domains/authentication/application/views/contacts/index.php",
+		"/C/OSPanel/domains/authentication/application/views/news/index.php",
+		"/C/OSPanel/domains/authentication/application/controllers/News.php",
+		"/C/OSPanel/domains/authentication/system/libraries/Session/Session.php",
+		"/C/OSPanel/domains/authentication/application/config/constants.php",
+		"/C/OSPanel/domains/authentication/assets/css/helper.css",
+		"/C/OSPanel/domains/authentication/application/views/users/success_create.php",
+		"/C/OSPanel/domains/authentication/application/.htaccess",
+		"/C/OSPanel/domains/authentication/application/views/news/create.php",
+		"/C/OSPanel/domains/authentication/application/views/news/success.php",
+		"/C/OSPanel/domains/authentication/application/views/users/home.php",
+		"/C/OSPanel/domains/authentication/application/views/pages/home.php",
+		"/C/OSPanel/domains/authentication/application/views/pages/about.php",
+		"/C/OSPanel/domains/authentication/application/controllers/Pages.php",
+		"/C/OSPanel/domains/authentication/authentication.sublime-project",
+		"/C/OSPanel/domains/authentication/application/config/config.php",
+		"/C/OSPanel/domains/authentication/application/config/database.php",
+		"/C/OSPanel/domains/authentication/application/models/News_model.php",
+		"/C/OSPanel/domains/authentication/application/views/news/view.php",
+		"/C/OSPanel/domains/authentication/application/assets/js/jquery.js",
+		"/C/OSPanel/domains/authentication/application/views/errors/cli/index.html",
+		"/C/OSPanel/domains/authentication/application/views/errors/cli/error_404.php",
+		"/C/OSPanel/domains/authentication/application/views/header.php",
+		"/C/OSPanel/domains/test/wp-content/themes/volk-it/functions.php",
+		"/C/OSPanel/domains/test/wp-content/themes/volk-it/header.php",
+		"/C/OSPanel/domains/test/wp-content/themes/volk-it/menusform.php",
+		"/C/OSPanel/domains/test/wp-content/themes/volk-it/index.php",
+		"/C/OpenServer/domains/test/wp-content/themes/volk-it/style.css",
+		"/C/OpenServer/domains/test/wp-content/themes/volk-it/header.php",
+		"/C/OpenServer/domains/test/wp-content/themes/volk-it/page.php",
+		"/C/OpenServer/domains/test/wp-content/themes/volk-it/functions.php",
+		"/C/OpenServer/domains/test/wp-content/themes/volk-it/index.php",
+		"/C/Users/Asus/Downloads/FireShot/screenshot.png",
+		"/C/OpenServer/domains/test/wp-content/themes/twentysixteen/404.php",
+		"/C/OpenServer/domains/test/wp-content/themes/twentysixteen/index.php",
+		"/C/OpenServer/domains/test/wp-content/themes/twentysixteen/template-parts/content.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"base",
+			"'",
+			"{\n",
+			"var",
+			"enc",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yii_project.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
