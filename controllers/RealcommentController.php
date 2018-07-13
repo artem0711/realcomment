@@ -11,34 +11,35 @@ use yii\filters\VerbFilter;
 use yii\db\Expression;
 
 /**
- * RealcommentController implements the CRUD actions for Realcomment model.
+ * Controller to operate with Comments
  */
 class RealcommentController extends Controller
 {
     /**
-     * Lists all Realcomment models.
+     * Main action for operate with Comments
      * @return mixed
      */
     public function actionIndex()
     {
-        $model = new Realcomment();
+        $model = new Realcomment(); // create our model
 
-        if (\YIi::$app->request->isAjax)
+        if (\YIi::$app->request->isAjax) // check if user is create comment
         {
-            $model->date_time = new Expression('NOW()');
+            $model->date_time = new Expression('NOW()'); // take date and time now
 
-            if ($model->load(Yii::$app->request->post()) && $model->save())
+            if ($model->load(Yii::$app->request->post()) && $model->save()) // new comment is save in DB
             {
-                $comment = Realcomment::getLastComment();
-                return $this->renderPartial('_comment', [
-                    'comment' => $comment,
+                $comment = Realcomment::getLastComment(); // get last comment for insert into view
+                return $this->renderPartial('_comment', [ // render view
+                    'comment' => $comment, // last added comment
                 ]);
             }
         }
-        $comments = Realcomment::getComments();
-        return $this->render('index', [
-            'model' => $model,
-            'comments' => $comments,
+
+        $comments = Realcomment::getComments(); // return all comments
+        return $this->render('index', [ // render view
+            'model' => $model, // our model
+            'comments' => $comments, // all comments
         ]);
     }
 }

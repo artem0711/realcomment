@@ -45,7 +45,10 @@ class Realcomment extends \yii\db\ActiveRecord
             'message' => 'Message',
         ];
     }
-
+    /**
+     * Get all comments in DB
+     * @return [array] [all comments]
+     */
     public function getComments()
     {
         $comments = Realcomment::find()
@@ -54,6 +57,10 @@ class Realcomment extends \yii\db\ActiveRecord
         return $comments;
     }
 
+    /**
+     * Get last added comment in DB
+     * @return [row] [one last comment]
+     */
     public function getLastComment()
     {
         $comment = Realcomment::find()
