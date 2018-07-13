@@ -36,7 +36,10 @@ $this->params['breadcrumbs'][] = $this->title;
         <div class="col-lg-8">
             <div class="panel panel-primary">
                 <div class="panel-heading">Comments</div>
-                <div class="panel-body" style="max-height: 350px; overflow: auto;">
+                <div class="panel-body" id="panel-body" style="max-height: 350px; overflow: auto;">
+                    <?php if (count($comments) == 0): ?>
+                        <?= Html::tag('p', 'No comments', ['class' => 'text-center', 'id' => 'no-comments']) ?>
+                    <?php else: ?>
                     <ul id="comments" class="list-unstyled">
                     <?php foreach ($comments as $comment): ?>
                         <li>
@@ -51,6 +54,7 @@ $this->params['breadcrumbs'][] = $this->title;
                         </li>
                     <?php endforeach; ?>
                     </ul>
+                    <?php endif; ?>
                 </div>
             </div>
             
@@ -67,11 +71,20 @@ $js = <<<JS
             url: '/realcomment/index',
             type: 'POST',
             data: data,
-            success: function(res){
+            success: function(res) {
                 var newComment = document.createElement('li');
+                var noComments = document.getElementById('no-comments');
+                if (noComments) {
+                    noComments.remove();
+                    var list = document.createElement('ul');
+                    list.setAttribute('id', 'comments');
+                    $('#panel-body').append($('<ul />', {
+                        id : 'comments',
+                        class : 'list-unstyled'
+                    }));
+                }
                 newComment.innerHTML = res;
                 comments.insertBefore(newComment, comments.firstChild);
-                console.log(res);
             },
             error: function(){
                 alert('Error!');
